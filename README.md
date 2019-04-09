@@ -1,9 +1,9 @@
 # RiDe-PPI
 ## Gesundheitliche Risiken und Determinanten der Dauereinnahme von Protonenpumpeninhibitoren
 
-     Themenfeld: Verbesserung der Patientensicherheit
-     Sitz des Antragstellers: Bayern
-     Status: laufend
+* **Themenfeld**: Verbesserung der Patientensicherheit
+* **Sitz des Antragstellers**: Bayern
+* **Status**: laufend
 
 ## Projektbeschreibung
 
@@ -15,13 +15,13 @@ RiDe-PPI wird zu einer besseren Bewertung der Nutzen und Risiken der PPI beitrag
 
 ## Ansprechpartner
 
-PD Dr. Sebastian-Edgar Baumeister
-Ludwig-Maximilians-Universität München
-Lehrstuhl für Epidemiologie der Ludwig-Maximilians-Universität München am UNIKA-T Augsburg
-Neusässer Straße 47
-86156 Augsburg
-+49 821 5986465
-s.baumeister@unika-t.de
+PD Dr. Sebastian-Edgar Baumeister  
+Ludwig-Maximilians-Universität München  
+Lehrstuhl für Epidemiologie der Ludwig-Maximilians-Universität München am UNIKA-T Augsburg  
+Neusässer Straße 47  
+86156 Augsburg  
++49 821 5986465  
+s.baumeister@unika-t.de  
 
 ## Konsortialpartner
 
